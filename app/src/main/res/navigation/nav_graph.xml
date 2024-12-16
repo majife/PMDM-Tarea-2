@@ -9,7 +9,6 @@
         android:name="jimenez.fernandez.manueljesus.pmdmtarea2.GameListFragment"
         android:label="Main Fragment" >
 
-        <!-- Agrega aquí las acciones y destinos que se pueden realizar desde el MainFragment si es necesario -->
 
     </fragment>
 
