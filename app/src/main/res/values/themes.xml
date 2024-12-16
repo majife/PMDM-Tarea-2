@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PMDMTAREA2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/teal_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorSecondary">@color/teal_200</item>
+
+        <item name="buttonStyle">@style/ButtonStyle</item>
+        <item name="recyclerViewStyle">@style/RecyclerViewStyle</item>
+
+        <!-- SplashScreen cofiguration-->
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/super_mario_gif</item>
+        <item name="android:windowSplashScreenAnimationDuration">3000</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/colorPrimary</item>
+        <item name="android:windowSplashScreenBackground">@color/colorPrimary</item>
+    </style>
+
+    <style name="Theme.PMDMTAREA2" parent="Base.Theme.PMDMTAREA2" />
+</resources>

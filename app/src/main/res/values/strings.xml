@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">APP TAREA 2 MANUEL JESUS JIMENEZ</string>
+    <string name="lista_personajes">Lista de personajes</string>
+    <string name="detalles_personaje">Detalles del personaje</string>
+
+    <string name="descripcion_mario">Personaje principal de la saga</string>
+    <string name="abilities_mario">Salta alto, come setas</string>
+
+    <string name="descripcion_luigi">Hermano de mario</string>
+    <string name="abilities_luigi">Lanza fuego, salta más alto que mario</string>
+
+    <string name="descripcion_peach">Princesa del reino champiñón</string>
+    <string name="abilities_peach">Flotabilidad al saltar, escudo de paraguas</string>
+
+    <string name="descripcion_toad">Habitante del reino champiñón y leal amigo de Mario y Luigi</string>
+    <string name="abilities_toad">Velocidad increíble, cargar objetos pesados</string>
+
+    <string name="about">Acerca de...</string>
+    <string name="about_explain">Aplicación desarrollada por Manuel J. Jiménez Fdez. Versión 1.0.</string>
+</resources>

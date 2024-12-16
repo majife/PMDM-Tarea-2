@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:title="Inicio"
+        android:icon="@drawable/mario_icon" />
+
+    <item
+        android:id="@+id/nav_settings"
+        android:title="Ajustes"
+        android:icon="@drawable/mario_icon" />
+
+    <item
+        android:id="@+id/nav_language"
+        android:title="Idioma"
+        android:icon="@drawable/mario_icon" />
+</menu>

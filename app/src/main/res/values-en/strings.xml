@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">APP TASK 2 MANUEL JESUS JIMENEZ</string>
+    <string name="lista_personajes">Character List</string>
+    <string name="detalles_personaje">Character Details</string>
+
+    <string name="descripcion_mario">Main character of the saga</string>
+    <string name="abilities_mario">Jumps high, eats mushrooms</string>
+
+    <string name="descripcion_luigi">Mario\'s brother</string>
+    <string name="abilities_luigi">Throws fire, jumps higher than Mario</string>
+
+    <string name="descripcion_peach">Princess of the Mushroom Kingdom</string>
+    <string name="abilities_peach">Floating jump, umbrella shield</string>
+
+    <string name="descripcion_toad">Resident of the Mushroom Kingdom and loyal friend of Mario and Luigi</string>
+    <string name="abilities_toad">Incredible speed, carries heavy objects</string>
+
+    <string name="about">About...</string>
+    <string name="about_explain">Application developed by Manuel J. Jiménez Fdez. Version 1.0.</string>
+</resources>

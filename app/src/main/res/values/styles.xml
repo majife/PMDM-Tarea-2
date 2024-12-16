@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Tema principal de la aplicación -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+    </style>
+
+    <!-- Estilo para RecyclerView -->
+    <style name="RecyclerViewStyle">
+        <item name="android:divider">@android:color/darker_gray</item>
+        <item name="android:dividerHeight">1dp</item>
+        <item name="android:padding">8dp</item>
+    </style>
+
+    <!-- Estilo para los TextViews -->
+    <style name="TextViewStyle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/teal_200</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <!-- Estilo para los botones -->
+    <style name="ButtonStyle">
+        <item name="android:backgroundTint">@color/teal_200</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:layout_margin">8dp</item>
+    </style>
+
+</resources>
